@@ -10,9 +10,9 @@ void even(int number){
 	if (number%2 == 0){
 
 		cout<< number << " is even :)\n";
-	}else{
+	} else {
 
-		cout<< number << " is not even :(\n";
+		cout<< number << " is odd :)\n";
 
 	}
 
@@ -24,7 +24,7 @@ int main(){
 	// Variables.
 	int number;
 
-	// Initial menssage.
+	// Initial message.
 	cout << "\t\n\nThis is a program to determinate if a number is even or not.";
 	cout << "\n\n";
 

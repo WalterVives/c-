@@ -5,8 +5,8 @@ using namespace std;
 
 int main(){
 
-	cout << "Hello world!, this is C++!"<<endl;
-	
+	cout << "Hello world! this is C++! " << endl;
+	cout << endl;
+
 	return 0;
 }
-
